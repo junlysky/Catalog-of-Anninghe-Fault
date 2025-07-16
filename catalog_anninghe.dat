@@ -1,10 +1,3 @@
-'''
-Please cite this paper
-Li, J., Zhang, G., Zhang, S. et al. Seismicity characteristics and interseismic 
-locking of the Anninghe Fault, Southwest China: Insights from long-term dense 
-seismic array observations. Earth Planets Space 77, 63 (2025). 
-https://doi.org/10.1186/s40623-025-02167-z
-'''
 ot,lat,lon,dep,mag,dt_max,num_sta,ex,ey,ez,rms,evid
 2008-10-02T00:10:13.740000Z,27.580951,101.893286,21.02,1.8,107.9,5,242.1,268.4,316.7,0.128,61
 2008-10-02T18:20:30.220000Z,29.213971,102.228174,9.56,1.5,105.9,5,190.5,237.5,264.3,0.121,60
